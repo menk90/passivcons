@@ -14,7 +14,7 @@
           "n_close_orders": 2,
           "qty_pct_close": 0.019693565193571065,
           "qty_pct_entry": 0.016156769863256037,
-          "wallet_exposure_limit": 1,
+          "wallet_exposure_limit": 0.2,
           "we_multiplier_close": 15,
           "we_multiplier_entry": 11.414245776334726},
  "short": {"backwards_tp": true,
